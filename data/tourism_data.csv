@@ -1,0 +1,13 @@
+destino,departamento,tipo,precio_estimado,clima,actividades,descripcion,temporada_ideal
+Cartagena,Bolívar,Playa,1200000,Cálido,"Playas, ciudad amurallada, gastronomía","Destino histórico y playero muy popular en Colombia","Diciembre a abril"
+Medellín,Antioquia,Ciudad,800000,Templado,"Museos, Miradores, Vida nocturna","Ciudad moderna conocida como la ciudad de la eterna primavera","Todo el año"
+Guatapé,Antioquia,Naturaleza,300000,Templado,"Piedra del Peñol, deportes acuáticos","Casa del Peñol y embalse con actividades acuáticas","Todo el año"
+Bogotá,Cundinamarca,Ciudad,900000,Frío,"Museos, Monserrate, gastronomía","Capital de Colombia con gran oferta cultural","Todo el año"
+San Andrés,San Andrés,Playa,1500000,Cálido,"Playas, buceo, snorkeling","Isla caribeña famosa por su mar de siete colores","Diciembre a junio"
+Santa Marta,Magdalena,Playa,1100000,Cálido,"Tayrona, playas, senderismo","Ciudad costera con acceso al Parque Tayrona","Diciembre a abril"
+Cali,Valle del Cauca,Ciudad,700000,Cálido,"Salsa, gastronomía, vida nocturna","Capital de la salsa y clima cálido","Todo el año"
+Barichara,Santander,Pueblo,900000,Cálido,"Senderismo, gastronomía","Pueblo colonial considerado el más bonito de Colombia","Junio a septiembre"
+Providencia,San Andrés,Playa,1800000,Cálido,"Buceo, playas","Isla tranquila con playas vírgenes","Enero a mayo"
+Villa de Leyva,Boyacá,Pueblo,600000,Frío,"Paseos, museos, caminatas","Pueblo colonial con arquitectura conservada","Todo el año"
+Caño Cristales,Meta,Naturaleza,2000000,Cálido,"Senderismo, naturaleza","El río más hermoso del mundo","Junio a noviembre"
+Leticia,Amazonas,Naturaleza,1800000,Tropical,"Selva, avistamiento de fauna","Puerta de entrada al Amazonas colombiano","Julio a noviembre"
