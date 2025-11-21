@@ -1,6 +1,6 @@
 # 🌴 Tourism Voice Agent — Asistente Turístico de Colombia  
 Proyecto Final — Inteligencia Artificial  
-Autor: Felipe Gómez Espinal (EAFIT)
+Autor: Felipe Gómez Espinal y Diego Hernandez
 
 ---
 
